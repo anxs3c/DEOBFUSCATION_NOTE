@@ -20,9 +20,3 @@
 | [Prettier](https://prettier.io/playground/) |
 | [Beautifier](https://beautifier.io/) |
 | [JSNice](http://www.jsnice.org/) |
-
-# Misc
-
-| **Command**   | **Description**   |
-| --------------|-------------------|
-| `ctrl+u` | Show HTML source code in Firefox |
